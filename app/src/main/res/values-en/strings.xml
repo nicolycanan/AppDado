@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="jogar_dado">Play</string>
+    <string name="rode_dado">Try the dice</string>
+    <string name="numero_repetido">Repeated value!</string>
+    <string name="titulo_principal">Throw the dice</string>
+    <string name="valor_dado">Dice value: %d</string>
+    <string name="repeated_number">O valor repetido foi: %d</string>
+    <string name="voltar">Back</string>
+
+</resources>

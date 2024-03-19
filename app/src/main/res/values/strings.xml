@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dado</string>
+    <string name="jogar_dado">Jogar Dado</string>
+    <string name="rode_dado">Rode o dado</string>
+    <string name="numero_repetido">Número repetido!</string>
+    <string name="titulo_principal">Jogar Dado</string>
+    <string name="valor_dado">Valor do dado: %d</string>
+    <string name="repeated_number">O valor repetido foi: %d</string>
+    <string name="voltar">Voltar</string>
+</resources>
